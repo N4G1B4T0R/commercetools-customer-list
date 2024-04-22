@@ -17,12 +17,14 @@ Congratulations on making it this far in the interview process! 🎉
 Cloning the repository
 
 ```shell
-test
+git clone https://github.com/N4G1B4T0R/commercetools-customer-list.git
 ```
 
 ### Install packages and run project
 
 ```shell
-test
+cd commercetools-customer-list
+yarn
+yarn start
 ```
 
